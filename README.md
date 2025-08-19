@@ -329,7 +329,7 @@ _These are partner links - you won't pay a cent more, but you'll be supporting D
 </a>
 
 <a href="https://www.credly.com/badges/46c5f968-242e-477b-977a-4daf01092377" title="HashiCorp Certified: Terraform Associate (003)">
-    <img src="https://images.credly.com/size/680x680/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="HashiCorp Certified: Terraform Associate (003)">
+    <img src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="HashiCorp Certified: Terraform Associate (003)">
 </a>
 
 <a href="https://www.credly.com/badges/800efbf2-3767-469b-8743-f14db219b304" title="AWS Knowledge: Serverless">
