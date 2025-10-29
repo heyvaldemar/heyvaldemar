@@ -77,13 +77,18 @@ Explore some of my key contributions to Cypress's knowledge base and resources:
 
 ## Tools I Personally Trust
 
-If you're building things, breaking things, and trying to keep your digital life a little saner (like every good DevOps engineer), these are two tools that I trust and use daily:
+If you’re building, breaking, and trying to keep your digital life sane (like every good DevOps engineer), these are tools I actually use every day:
 
-🛸 [Proton VPN](https://go.getproton.me/SH1e9) - My shield on the internet. It keeps your Wi-Fi secure, hides your IP, and blocks those creepy trackers. Even if I'm hacking away on free café Wi-Fi, I know I'm safe.
+🛸 [Proton VPN](https://go.getproton.me/SH1e9) **(60% off link)**\
+My shield on the internet. Keeps my Wi-Fi secure, hides my IP, and blocks trackers. Even on sketchy café Wi-Fi, I’m safe.
 
-🔑 [Proton Pass](https://go.getproton.me/SH1dl) - My password vault. Proper on-device encryption, 2FA codes, logins, secrets - all mine and only mine. No compromises.
+🔑 [Proton Pass ](https://go.getproton.me/SH1dl) **(50% off link)**\
+My password vault. End-to-end encrypted logins, 2FA, and notes - all mine and only mine.
 
-_These are partner links - you won't pay a cent more, but you'll be supporting DevOps Compass. Thanks a ton - it helps me keep this compass pointing the right way 💜_
+🦑 [GitKraken Pro](https://gitkraken.cello.so/3G7ijV8vGOC) **(50% off link)**\
+My visual Git sidekick. Beautiful commit graph, easy merges, and fewer "WTF just happened?" moments.
+
+💜 These links give you discounts - and help support the channel at no extra cost.
 
 ## Gear & Books I Trust
 
