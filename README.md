@@ -17,6 +17,25 @@ I'm Vladimir Mikhalev, an [AWS Community Builder](https://builder.aws.com/connec
 
 Let's do this together!
 
+## Patreon Exclusives
+
+🏆 Join my [Patreon](https://www.patreon.com/heyvaldemar) and dive deep into the world of Docker and DevOps with exclusive content tailored for IT enthusiasts and professionals. As your experienced guide, I offer a range of membership tiers designed to suit everyone from newbies to IT experts.
+
+## Tools I Personally Trust
+
+If you’re building, breaking, and trying to keep your digital life sane (like every good DevOps engineer), these are tools I actually use every day:
+
+🛸 [Proton VPN](https://go.getproton.me/SH1e9) **(60% off link)**\
+My shield on the internet. Keeps my Wi-Fi secure, hides my IP, and blocks trackers. Even on sketchy café Wi-Fi, I’m safe.
+
+🔑 [Proton Pass ](https://go.getproton.me/SH1dl) **(50% off link)**\
+My password vault. End-to-end encrypted logins, 2FA, and notes - all mine and only mine.
+
+🦑 [GitKraken Pro](https://gitkraken.cello.so/3G7ijV8vGOC) **(50% off link)**\
+My visual Git sidekick. Beautiful commit graph, easy merges, and fewer "WTF just happened?" moments.
+
+💜 These links give you discounts - and help support the channel at no extra cost.
+
 ## Recognized by Docker CEO
 
 At the Docker Captains Summit, Docker's CEO, [Scott Johnston](https://www.linkedin.com/in/scottcjohnston/), acknowledged my exceptional leadership and contributions.
@@ -70,25 +89,6 @@ Explore some of my key contributions to Cypress's knowledge base and resources:
 ## 2D Portfolio
 
 🕹️ Click into [sre.gg](https://www.sre.gg/) - my virtual space is a 2D pixel-art portfolio inviting you to interact with elements that encapsulate the milestones of my DevOps career.
-
-## Patreon Exclusives
-
-🏆 Join my [Patreon](https://www.patreon.com/heyvaldemar) and dive deep into the world of Docker and DevOps with exclusive content tailored for IT enthusiasts and professionals. As your experienced guide, I offer a range of membership tiers designed to suit everyone from newbies to IT experts.
-
-## Tools I Personally Trust
-
-If you’re building, breaking, and trying to keep your digital life sane (like every good DevOps engineer), these are tools I actually use every day:
-
-🛸 [Proton VPN](https://go.getproton.me/SH1e9) **(60% off link)**\
-My shield on the internet. Keeps my Wi-Fi secure, hides my IP, and blocks trackers. Even on sketchy café Wi-Fi, I’m safe.
-
-🔑 [Proton Pass ](https://go.getproton.me/SH1dl) **(50% off link)**\
-My password vault. End-to-end encrypted logins, 2FA, and notes - all mine and only mine.
-
-🦑 [GitKraken Pro](https://gitkraken.cello.so/3G7ijV8vGOC) **(50% off link)**\
-My visual Git sidekick. Beautiful commit graph, easy merges, and fewer "WTF just happened?" moments.
-
-💜 These links give you discounts - and help support the channel at no extra cost.
 
 ## Gear & Books I Trust
 
