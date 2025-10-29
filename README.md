@@ -25,14 +25,11 @@ Let's do this together!
 
 If you’re building, breaking, and trying to keep your digital life sane (like every good DevOps engineer), these are tools I actually use every day:
 
-🛸 [Proton VPN](https://go.getproton.me/SH1e9) **(60% off link)**\
-My shield on the internet. Keeps my Wi-Fi secure, hides my IP, and blocks trackers. Even on sketchy café Wi-Fi, I’m safe.
+🛸 [Proton VPN](https://go.getproton.me/SH1e9) **(60% off link)** - my shield on the internet. Keeps my Wi-Fi secure, hides my IP, and blocks trackers. Even on sketchy café Wi-Fi, I’m safe.
 
-🔑 [Proton Pass ](https://go.getproton.me/SH1dl) **(50% off link)**\
-My password vault. End-to-end encrypted logins, 2FA, and notes - all mine and only mine.
+🔑 [Proton Pass ](https://go.getproton.me/SH1dl) **(50% off link)** - my password vault. End-to-end encrypted logins, 2FA, and notes - all mine and only mine.
 
-🦑 [GitKraken Pro](https://gitkraken.cello.so/3G7ijV8vGOC) **(50% off link)**\
-My visual Git sidekick. Beautiful commit graph, easy merges, and fewer "WTF just happened?" moments.
+🦑 [GitKraken Pro](https://gitkraken.cello.so/3G7ijV8vGOC) **(50% off link)** - my visual Git sidekick. Beautiful commit graph, easy merges, and fewer "WTF just happened?" moments.
 
 💜 These links give you discounts - and help support the channel at no extra cost.
 
