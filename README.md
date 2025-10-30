@@ -199,7 +199,7 @@ Explore some of my key contributions to Cypress's knowledge base and resources:
 </a>
 
 <a href="https://www.credly.com/badges/8f0f973c-dd5d-4ec3-a403-f5697f5da68b" title="Data Science for Business - Level 1">
-    <img src="https://images.credly.com/size/680x680/images/547b89ab-8749-4dfa-8ace-edf4fc6af3be/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Data Science for Business - Level 1">
+    <img src="https://images.credly.com/size/680x680/images/95272ba4-d722-4e3c-8727-d3235c75e4d6/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Data Science for Business - Level 1">
 </a>
 
 <a href="https://www.credly.com/badges/e82d4004-498c-439f-8ad2-6d0428129108" title="Quantum-Safe Encryption Essentials">
@@ -279,7 +279,7 @@ Explore some of my key contributions to Cypress's knowledge base and resources:
 </a>
 
 <a href="https://www.credly.com/badges/7d576a72-4a50-47bb-a85c-d21d4fb0a271" title="AWS Knowledge: Events and Workflows">
-    <img src="https://images.credly.com/size/680x680/images/65b806c9-c09d-4125-bfb0-8fc87f4699ac/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Events and Workflows">
+    <img src="https://images.credly.com/size/680x680/images/b6050277-c769-4d17-8c77-3fa963830231/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Events and Workflows">
 </a>
 
 <a href="https://www.credly.com/badges/c3b4b3e0-1691-4ae3-8215-03d63d0b9a5c" title="Deep Learning Essentials">
@@ -295,27 +295,27 @@ Explore some of my key contributions to Cypress's knowledge base and resources:
 </a>
 
 <a href="https://www.credly.com/badges/783a1521-96ea-4b65-88d8-07b60ace292b" title="AWS Knowledge: Amazon EKS">
-    <img src="https://images.credly.com/size/680x680/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Amazon EKS">
+    <img src="https://images.credly.com/size/680x680/images/f5efafe6-ebdc-485c-9ffa-3a05533e634b/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Amazon EKS">
 </a>
 
 <a href="https://www.credly.com/badges/a2ff9320-0300-4de9-b218-e2c5b10350de" title="AWS Knowledge: Cloud Essentials">
-    <img src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Cloud Essentials">
+    <img src="https://images.credly.com/size/680x680/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Cloud Essentials">
 </a>
 
 <a href="https://www.credly.com/badges/dec40d7a-11f1-46af-8d36-fa006209ed36" title="AWS Knowledge: Migration Foundations">
-    <img src="https://images.credly.com/size/680x680/images/4163dc96-eec3-49c2-87b3-6a98172e160c/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Migration Foundations">
+    <img src="https://images.credly.com/size/680x680/images/af87a78c-bd87-4f68-a179-d3edf6ac59d1/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Migration Foundations">
 </a>
 
 <a href="https://www.credly.com/badges/d8a6e4f8-bff0-4483-ba5d-c10bb2bf8685" title="AWS Knowledge: Networking Core">
-    <img src="https://images.credly.com/size/680x680/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Networking Core">
+    <img src="https://images.credly.com/size/680x680/images/e1c202b1-bca1-469a-9149-127b4fe891d7/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Networking Core">
 </a>
 
 <a href="https://www.credly.com/badges/90c8487d-7264-4f4c-9b69-f512ab61a7dd" title="AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations">
-    <img src="https://images.credly.com/size/680x680/images/0c6f66be-4cd6-4d98-b132-a9a87dc6ecbe/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations">
+    <img src="https://images.credly.com/size/680x680/images/59b94f73-1a96-4467-8af9-5771e65932e7/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations">
 </a>
 
 <a href="https://www.credly.com/badges/4cb0819a-c1ce-4aa5-91b6-5cdf3f468c09" title="AWS Knowledge: Data Protection & Disaster Recovery">
-    <img src="https://images.credly.com/size/680x680/images/b8766b97-8362-4948-a08c-d4fbd2cda57c/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Data Protection & Disaster Recovery">
+    <img src="https://images.credly.com/size/680x680/images/94af532a-9586-4cc5-b313-6341d3e5fb89/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Data Protection & Disaster Recovery">
 </a>
 
 <a href="https://www.credly.com/badges/746a22ee-90dd-49e6-810b-9536b33674f1" title="AWS Knowledge: Storage Core">
@@ -323,7 +323,7 @@ Explore some of my key contributions to Cypress's knowledge base and resources:
 </a>
 
 <a href="https://www.credly.com/badges/6d56e0ce-c018-42a1-a2e4-d8dac6d1b078" title="AWS Knowledge: File Storage">
-    <img src="https://images.credly.com/size/680x680/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: File Storage">
+    <img src="https://images.credly.com/size/680x680/images/635449f2-3a53-40b3-bf08-5af4fb95df61/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: File Storage">
 </a>
 
 <a href="https://www.credly.com/badges/f591e5d9-47f0-4044-99e2-602abbdbaf80" title="AWS Knowledge: Block Storage">
@@ -335,7 +335,7 @@ Explore some of my key contributions to Cypress's knowledge base and resources:
 </a>
 
 <a href="https://www.credly.com/badges/800efbf2-3767-469b-8743-f14db219b304" title="AWS Knowledge: Serverless">
-    <img src="https://images.credly.com/size/680x680/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Serverless">
+    <img src="https://images.credly.com/size/680x680/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Serverless">
 </a>
 
 <a href="https://www.credly.com/badges/21282a86-30df-4054-a552-569eca1c100f" title="AWS Knowledge: Object Storage">
@@ -343,7 +343,7 @@ Explore some of my key contributions to Cypress's knowledge base and resources:
 </a>
 
 <a href="https://www.credly.com/badges/a2450a87-54d6-4cf0-99ca-22163530f33a" title="AWS Knowledge: AWS for Games: Cloud Game Development">
-    <img src="https://images.credly.com/size/680x680/images/1e1e332c-cbe5-4358-9491-748cc5c5d15f/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: AWS for Games: Cloud Game Development">
+    <img src="https://images.credly.com/size/680x680/images/7ad52d33-5620-411e-997a-546b22ed33b7/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: AWS for Games: Cloud Game Development">
 </a>
 
 <a href="https://www.credly.com/badges/ad2082cf-bf19-4054-ab27-89e762a8f24d" title="AWS Knowledge: Architecting">
