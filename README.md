@@ -327,7 +327,7 @@ Explore some of my key contributions to Cypress's knowledge base and resources:
 </a>
 
 <a href="https://www.credly.com/badges/f591e5d9-47f0-4044-99e2-602abbdbaf80" title="AWS Knowledge: Block Storage">
-    <img src="https://images.credly.com/size/680x680/images/bd6f25a2-b7ac-4b4c-ae4c-887864ba105e/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Block Storage">
+    <img src="https://images.credly.com/size/680x680/images/b9314088-1e50-4175-a969-4d2c5ac1a461/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Block Storage">
 </a>
 
 <a href="https://www.credly.com/badges/46c5f968-242e-477b-977a-4daf01092377" title="HashiCorp Certified: Terraform Associate (003)">
@@ -339,7 +339,7 @@ Explore some of my key contributions to Cypress's knowledge base and resources:
 </a>
 
 <a href="https://www.credly.com/badges/21282a86-30df-4054-a552-569eca1c100f" title="AWS Knowledge: Object Storage">
-    <img src="https://images.credly.com/size/680x680/images/100511fc-a919-4c0c-b313-7f49b6d09ef6/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Object Storage">
+    <img src="https://images.credly.com/size/680x680/images/71fe0b13-e036-493b-b723-3e57a1face71/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Object Storage">
 </a>
 
 <a href="https://www.credly.com/badges/a2450a87-54d6-4cf0-99ca-22163530f33a" title="AWS Knowledge: AWS for Games: Cloud Game Development">
