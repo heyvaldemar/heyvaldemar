@@ -134,6 +134,10 @@ Explore some of my key contributions to Cypress's knowledge base and resources:
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="620" alt="Vladimir Mikhalev's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/c952009e-8a5f-4e8c-afa1-2789dba713b4" title="Chainguard AI/ML Guardian">
+    <img src="https://images.credly.com/size/680x680/images/5750aba6-98f3-43dd-b2d0-3d5a5d11edfd/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Chainguard AI/ML Guardian">
+</a>
+
 <a href="https://www.credly.com/badges/0fe5934b-7438-4143-856e-669a3463c3d6/" title="Simplifying Data Pipelines with Apache Kafka">
     <img src="https://images.credly.com/size/680x680/images/e326783e-e92d-41a6-b2e6-1eb5bc91b7ad/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Simplifying Data Pipelines with Apache Kafka">
 </a>
