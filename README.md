@@ -7,7 +7,7 @@
 
 > *"Vladimir has gone above and beyond the normal calls of duty."*
 
-— **Scott Johnston** (Docker CEO, 2019–2026)
+— **Scott Johnston** (Docker CEO, 2014–2025)
 
 <br/>
 
