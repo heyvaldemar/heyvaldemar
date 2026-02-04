@@ -91,9 +91,4 @@ Engineering Culture Design
   <img src="https://img.shields.io/badge/DISCORD-ENGINEERING_ELITE-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 
-<br />
-<br />
-
-<sub>DOCKER CAPTAIN · HASHICORP AMBASSADOR · AWS COMMUNITY BUILDER</sub>
-
 </div>
