@@ -77,7 +77,6 @@ Engineering Culture Design
 | **Notion** | [📓 Ambassador](https://www.notion.so/notion/Notion-Ambassador-Program-45448f9b8e704c7bab254bd505c4717c) | Engineering Knowledge |
 
 <br />
-<br />
 
 ## 🗝️ The Inner Circle
 
