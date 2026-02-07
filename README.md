@@ -84,7 +84,7 @@ Engineering Culture Design
   <img src="https://img.shields.io/badge/TELEGRAM-STRATEGIC_INTEL-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 <a href="https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ?sub_confirmation=1" target="_blank">
-  <img src="https://img.shields.io/badge/YOUTUBE-VISUAL_DOCTRINE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <img src="https://img.shields.io/badge/YOUTUBE-VISUAL_DOCTRINE-CD201F?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 <a href="https://theorder.black/" target="_blank">
   <img src="https://img.shields.io/badge/DISCORD-ENGINEERING_ELITE-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
