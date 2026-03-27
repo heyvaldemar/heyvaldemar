@@ -12,7 +12,7 @@
 
 One of fewer than 250 Docker Captains worldwide. 8 vendor-recognized community titles across Docker, IBM, AWS, Snyk, Cypress, Notion, GitKraken, and Platform Engineering — earned through contribution, not credentials.
 
-I test what the industry ships — and publish what I find. Production-tested frameworks for container security, AI governance, and platform engineering. Every framework is built on real infrastructure serving Fortune 500 clients.
+Every architecture recommendation I make, I've tested in production first. 20+ years designing and delivering cloud infrastructure at Amazon, IBM, Thales, and Ataccama. I design scalable systems and publish what I learn — reference architectures for container security, AI governance, and platform engineering used by practitioners worldwide.
 
 ---
 
@@ -56,13 +56,13 @@ I test what the industry ships — and publish what I find. Production-tested fr
 
 ### Production Background
 
-*20+ years of enterprise infrastructure across 3 countries*
+*20+ years of enterprise infrastructure architecture across 3 countries*
 
-Sole technology leader for North American operations at a Series D enterprise serving Fortune 500 clients. Container orchestration, zero trust governance, AI-augmented platform engineering, multi-region cloud architecture on AWS.
+Sole architect and technology leader for North American operations at a Series D enterprise serving Fortune 500 clients. Designing scalable cloud architecture on AWS for enterprise accounts: container orchestration, zero trust governance, AI-augmented platforms, multi-region infrastructure.
 
-Previously: Amazon, IBM, Thales. Disaster recovery at scale, distributed systems across continents, reliability engineering for deployments processing millions of requests per minute.
+Previously: Amazon, IBM, Thales. Designed disaster recovery architecture at scale, distributed systems across continents, reliability engineering for deployments processing millions of requests per minute.
 
-Every recommendation I publish is backed by production experience. Not theory.
+Every architecture decision I publish is backed by production experience. Not theory.
 
 ---
 
