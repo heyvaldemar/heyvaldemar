@@ -12,7 +12,7 @@
 
 One of fewer than 250 Docker Captains worldwide. 8 vendor-recognized community titles across Docker, IBM, AWS, Snyk, Cypress, Notion, GitKraken, and Platform Engineering — earned through contribution, not credentials.
 
-Every architecture recommendation I make, I've tested in production first. 20+ years designing and delivering cloud infrastructure at Amazon, IBM, Thales, and Ataccama. I design scalable systems and publish what I learn — reference architectures for container security, AI governance, and platform engineering used by practitioners worldwide.
+Every architecture recommendation backed by production experience. 20+ years designing and delivering cloud infrastructure at Amazon, IBM, Thales, and Ataccama. I design scalable systems and publish what I learn — reference architectures for container security, AI governance, and platform engineering used by practitioners worldwide.
 
 ---
 
@@ -62,7 +62,7 @@ Sole architect and technology leader for North American operations at a Series D
 
 Previously: Amazon, IBM, Thales. Designed disaster recovery architecture at scale, distributed systems across continents, reliability engineering for deployments processing millions of requests per minute.
 
-Every architecture decision I publish is backed by production experience. Not theory.
+Every architecture decision I publish is backed by production experience.
 
 ---
 
