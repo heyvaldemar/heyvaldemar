@@ -16,6 +16,22 @@ I test what the industry ships — and publish what I find. Production-tested fr
 
 ---
 
+### Recognition
+
+*Docker CEO on my contributions to the ecosystem*
+
+<div align="left">
+
+[![Docker CEO Scott Johnston recognizes Vladimir Mikhalev at Docker Captains Summit 2024](https://img.youtube.com/vi/NAv1e36PTB8/mqdefault.jpg)](https://www.youtube.com/watch?v=NAv1e36PTB8&t=58)
+
+</div>
+
+> *"Vladimir has written more than 100 pieces of content for Docker in the past year. He has also helped us find customer stories that we've been able to document and share throughout the rest of the community. And he's met with multiple product managers internally to share his product feedback."*
+>
+> — Scott Johnston, CEO, Docker (2019–2025)
+
+---
+
 ### Published Work
 
 *Selected publications on vendor platforms*
@@ -24,12 +40,15 @@ I test what the industry ships — and publish what I find. Production-tested fr
 - **Docker Official Blog:** [Testcontainers Cloud vs Docker-in-Docker for Testing Scenarios](https://www.docker.com/blog/testcontainers-cloud-vs-docker-in-docker-for-testing-scenarios/)
 - **Docker Official Blog:** [Master Docker and VS Code: Supercharge Your Dev Workflow](https://www.docker.com/blog/master-docker-vs-code-supercharge-your-dev-workflow/)
 - **Docker Official Blog:** [Mastering Docker and Jenkins: Build Robust CI/CD Pipelines](https://www.docker.com/blog/docker-and-jenkins-build-robust-ci-cd-pipelines/)
+- **Docker Official Blog:** [How to Dockerize a React App](https://www.docker.com/blog/how-to-dockerize-a-react-app/)
+- **Docker Official Blog:** [Dockerize WordPress: Simplify Your Site's Setup and Deployment](https://www.docker.com/blog/dockerize-wordpress-simplify-your-sites-setup-and-deployment/)
 - **Docker Official Blog:** [8 Top Docker Tips & Tricks](https://www.docker.com/blog/8-top-docker-tips-tricks-for-2024/)
 - **Docker Enterprise Case Study:** [Accelerating AI Infrastructure at Ataccama](https://www.docker.com/resources/ataccama/)
 - **Docker Enterprise Case Study:** [25% Cost Savings via Container-First Strategy](https://www.docker.com/resources/beauty-giant/)
 - **Docker YouTube:** [Why 'latest' Broke Our Staging](https://www.youtube.com/shorts/8I3eRoc6exA) · [Use Docker Scout to Catch Prod Bugs](https://www.youtube.com/shorts/DDDwoIhHRxs)
 - **Cypress Blog:** [Cypress in the Age of AI Agents](https://dev.to/cypress/cypress-in-the-age-of-ai-agents-orchestration-trust-and-the-tests-that-run-themselves-43go)
 - **Cypress Blog:** [Docker + Cypress: Perfecting E2E Testing](https://dev.to/cypress/docker-cypress-in-2025-how-ive-perfected-my-e2e-testing-setup-4f7j)
+- **Cypress Blog:** [Cypress Test Replay: The Ultimate Guide to Time-Travel Debugging](https://dev.to/cypress/cypress-test-replay-in-2025-the-ultimate-guide-to-time-travel-debugging-4kk7)
 - **Book:** [Technical Editor — "Docker and Kubernetes Security"](https://www.dockersecurity.io/)
 - **Open Source:** [50+ production-grade Docker Compose blueprints](https://github.com/heyvaldemar) · [500,000+ Docker Hub pulls](https://hub.docker.com/u/heyvaldemar)
 
