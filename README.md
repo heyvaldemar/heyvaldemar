@@ -10,7 +10,7 @@
 
 ### What I Do
 
-One of fewer than 100 Docker Captains worldwide. 8 vendor-recognized community titles across Docker, IBM, AWS, Snyk, Cypress, Notion, GitKraken, and Platform Engineering — earned through contribution, not credentials.
+One of fewer than 250 Docker Captains worldwide. 8 vendor-recognized community titles across Docker, IBM, AWS, Snyk, Cypress, Notion, GitKraken, and Platform Engineering — earned through contribution, not credentials.
 
 I test what the industry ships — and publish what I find. Production-tested frameworks for container security, AI governance, and platform engineering. Every framework is built on real infrastructure serving Fortune 500 clients.
 
@@ -20,7 +20,7 @@ I test what the industry ships — and publish what I find. Production-tested fr
 
 *Docker CEO on my contributions to the ecosystem*
 
-<div align="left">
+<div align="center">
 
 [![Docker CEO Scott Johnston recognizes Vladimir Mikhalev at Docker Captains Summit 2024](https://img.youtube.com/vi/NAv1e36PTB8/mqdefault.jpg)](https://www.youtube.com/watch?v=NAv1e36PTB8&t=58)
 
