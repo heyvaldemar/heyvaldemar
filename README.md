@@ -12,7 +12,7 @@
 
 One of fewer than 250 Docker Captains worldwide. 8 vendor-recognized community titles across Docker, IBM, AWS, Snyk, Cypress, Notion, GitKraken, and Platform Engineering — earned through contribution, not credentials.
 
-Every architecture recommendation backed by production experience. 20+ years designing and delivering cloud infrastructure at Amazon, IBM, Thales, and Ataccama. I design scalable systems and publish what I learn — reference architectures for container security, AI governance, and platform engineering used by practitioners worldwide.
+Every architecture recommendation backed by production experience. 20+ years designing and delivering cloud infrastructure at Amazon, IBM, Thales, and a Series D data platform serving Fortune 500 clients. I design scalable systems and publish what I learn — reference architectures for container security, AI governance, and platform engineering used by practitioners worldwide.
 
 ---
 
@@ -28,7 +28,7 @@ Every architecture recommendation backed by production experience. 20+ years des
 
 > *"Vladimir has written more than 100 pieces of content for Docker in the past year. He has also helped us find customer stories that we've been able to document and share throughout the rest of the community. And he's met with multiple product managers internally to share his product feedback."*
 >
-> — Scott Johnston, CEO, Docker (2019–2025)
+> — Scott Johnston, CEO of Docker
 
 ---
 
