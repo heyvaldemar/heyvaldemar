@@ -54,6 +54,25 @@ Every architecture recommendation backed by production experience. 20+ years des
 
 ---
 
+### Engineering Standard
+
+*Formalized supply-chain hardening program for public deployment-template repositories*
+
+**[Self-Host Repo Hardening Runbook](https://github.com/heyvaldemar/self-host-repo-hardening-runbook)** — a 7-phase program that brings a `<service>-traefik-letsencrypt-docker-compose` shape repository to a reproducible supply-chain-hardened baseline: credentials out of git, community health files, commit-SHA-pinned GitHub Actions, digest-pinned upstream images with Dependabot auto-bumps, OpenSSF Scorecard, CI linting, and Trivy upstream image scanning. Templates, verification gates, and helper scripts included.
+
+**Reference implementations — two repository shapes, one hardening rigor:**
+
+| Repository | ⭐ | Shape | Supply-chain surface |
+| :--- | :---: | :--- | :--- |
+| [aws-kubectl-docker](https://github.com/heyvaldemar/aws-kubectl-docker) | 9 | Image-publishing | Cosign keyless signing · SBOM (SPDX) · SLSA build provenance · Trivy SARIF · digest-pinned base · OpenSSF Scorecard |
+| [keycloak-traefik-letsencrypt-docker-compose](https://github.com/heyvaldemar/keycloak-traefik-letsencrypt-docker-compose) | 140 | Deployment template | Digest-pinned upstream images · Dependabot auto-bumps · CI weekly deployment smoke · lint + Trivy scan · OpenSSF Scorecard |
+
+Rolling out to the remaining active deployment-template repositories — nextcloud (91⭐), zabbix (54⭐), gitlab (33⭐), gitea (33⭐), grafana (25⭐), vaultwarden (18⭐). Per-repo rollout status tracked in the [runbook README](https://github.com/heyvaldemar/self-host-repo-hardening-runbook).
+
+Each hardened repository ships with commit-SHA-pinned GitHub Actions, per-job permissions, weekly supply-chain drift detection, and security findings routed to the GitHub Security tab.
+
+---
+
 ### Production Background
 
 *20+ years of enterprise infrastructure architecture across 3 countries*
