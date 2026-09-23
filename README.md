@@ -83,10 +83,14 @@ Every architecture recommendation backed by production experience. Designed and 
 
 An AI agent does most of the typing across these repositories. It is fast, and it is wrong on a schedule. So nothing it writes ships on its word: a release is cut only after the release commit itself deploys, backs up and restores in CI, and every fleet rule is tested against a planted violation before it is trusted.
 
-What that system caught on 23 September 2026:
+<!-- fleet-evidence:start -->
+**Today: 73 restore scripts across 48 repositories, every one of them run by CI.** 826 releases are tagged across the fleet. fleet-ops recounts these once a day and rewrites this line when a number changes; these last changed 2026-09-23 21:17 UTC.
+<!-- fleet-evidence:end -->
+
+What those checks caught on 23 September 2026, the day that line was first written:
 
 - **A team wiki whose backup logged `Data backup OK` for 12 days and 8 releases** while it archived a storage volume nothing writes to. The uploaded files were in no backup. [The fix](https://github.com/heyvaldemar/outline-keycloak-traefik-letsencrypt-docker-compose/commit/02dc203f0347ad1ee2ced5afa2c1324232f4d366) now restores a file through S3 in CI on every push.
-- **72 restore scripts across 47 templates that CI had never run**, the oldest since May 2021. The tests had restored with their own copy of the commands. [One of the scripts, before and after](https://github.com/heyvaldemar/wordpress-traefik-letsencrypt-docker-compose/commit/cd271e5dc945f00c32aa9546d31799d37a664526): it refused to run on the stack it shipped with. All 47 now run the shipped script, and a fleet rule fails any that stops.
+- **On that day, 72 restore scripts across 47 templates had never been run by CI**, the oldest since May 2021. The tests had restored with their own copy of the commands. [One of the scripts, before and after](https://github.com/heyvaldemar/wordpress-traefik-letsencrypt-docker-compose/commit/cd271e5dc945f00c32aa9546d31799d37a664526): it refused to run on the stack it shipped with. All of them run the shipped script now, and a fleet rule fails any that stops.
 - **Six mistakes by the agent itself in one day**, from [an apostrophe that stopped a backup loop](https://github.com/heyvaldemar/outline-keycloak-traefik-letsencrypt-docker-compose/commit/2605ffbe63f953ac8b93c29fe4ffa2ad371a541f) to [a database client the image does not ship](https://github.com/heyvaldemar/otrs-traefik-letsencrypt-docker-compose/commit/292f5b3ddae05b7af6746a0b3681f4de5dcf2814). None reached a release.
 
 Green is a claim. A restore is evidence.
