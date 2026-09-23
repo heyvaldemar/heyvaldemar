@@ -72,7 +72,7 @@ Every architecture recommendation backed by production experience. Designed and 
 | [keycloak-traefik-letsencrypt-docker-compose](https://github.com/heyvaldemar/keycloak-traefik-letsencrypt-docker-compose) | Deployment template | Digest-pinned upstream images · daily freshness check against the registry · daily CI deployment smoke · lint + Trivy scan · OpenSSF Scorecard |
 
 <!-- fleet-summary:start -->
-**[87 repositories under this standard](https://github.com/heyvaldemar/catalog)** — 48 self-hosted applications behind Traefik, 14 game servers, 6 other stacks, 8 Terraform pipelines on AWS, 11 operations tools and scripts. Every template is pinned by digest, boots in CI daily, upgrades from its previous release on the same volumes, and is released only after that passes. fleet-ops recounts them once a day and rewrites this line when a number changes; these last changed 2026-09-23 17:28 UTC.
+**[88 repositories under this standard](https://github.com/heyvaldemar/catalog)** — 49 self-hosted applications behind Traefik, 14 game servers, 6 other stacks, 8 Terraform pipelines on AWS, 11 operations tools and scripts. Every template is pinned by digest, boots in CI daily, upgrades from its previous release on the same volumes, and is released only after that passes. fleet-ops recounts them once a day and rewrites this line when a number changes; these last changed 2026-09-23 18:12 UTC.
 <!-- fleet-summary:end -->
 
 ---
