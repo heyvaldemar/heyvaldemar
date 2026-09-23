@@ -95,6 +95,8 @@ What those checks caught on 23 September 2026, the day that line was first writt
 
 Green is a claim. A restore is evidence.
 
+**[The evidence, with a restore measured on a clean machine](https://heyvaldemar.com/evidence/)** · **[Every finding, with the rule it produced](https://heyvaldemar.com/ledger/)**
+
 ---
 
 ### Production Background
