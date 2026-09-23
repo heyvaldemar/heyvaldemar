@@ -10,9 +10,9 @@
 
 ### What I Do
 
-One of fewer than 250 Docker Captains worldwide. 10 vendor-recognized community titles across Docker, IBM, CNCF, AWS, HashiCorp, Snyk, Cypress, Notion, GitKraken, and Platform Engineering — earned through contribution, not credentials.
+One of fewer than 250 Docker Captains worldwide. 10 vendor-recognized community titles across Docker, IBM, CNCF, AWS, HashiCorp, Snyk, Cypress, Notion, GitKraken, and Platform Engineering, earned through contribution rather than credentials.
 
-Every architecture recommendation backed by production experience. Designed and delivered cloud infrastructure at Amazon, IBM, Thales, and a Series D data platform serving Fortune 500 clients. I design scalable systems and publish what I learn — reference architectures for container security, AI governance, and platform engineering used by practitioners worldwide.
+Every architecture recommendation backed by production experience. Designed and delivered cloud infrastructure at Amazon, IBM, Thales, and a Series D data platform serving Fortune 500 clients. I design scalable systems and publish what I learn: reference architectures for container security, AI governance, and platform engineering used by practitioners worldwide.
 
 ---
 
@@ -53,7 +53,7 @@ Every architecture recommendation backed by production experience. Designed and 
 - **Cypress Blog:** [Cypress in the Age of AI Agents](https://dev.to/cypress/cypress-in-the-age-of-ai-agents-orchestration-trust-and-the-tests-that-run-themselves-43go)
 - **Cypress Blog:** [Docker + Cypress: Perfecting E2E Testing](https://dev.to/cypress/docker-cypress-in-2025-how-ive-perfected-my-e2e-testing-setup-4f7j)
 - **Cypress Blog:** [Cypress Test Replay: The Ultimate Guide to Time-Travel Debugging](https://dev.to/cypress/cypress-test-replay-in-2025-the-ultimate-guide-to-time-travel-debugging-5485)
-- **Book:** [Technical Editor — "Docker and Kubernetes Security"](https://www.dockersecurity.io/)
+- **Book:** [Technical Editor of "Docker and Kubernetes Security"](https://www.dockersecurity.io/)
 - **Open Source:** [70+ production-grade deployment blueprints](https://github.com/heyvaldemar) · [1,000,000+ Docker Hub pulls](https://hub.docker.com/r/heyvaldemar/aws-kubectl)
 
 ---
@@ -62,9 +62,9 @@ Every architecture recommendation backed by production experience. Designed and 
 
 *Formalized supply-chain hardening program for public deployment-template repositories*
 
-**[Self-Host Repo Hardening Runbook](https://github.com/heyvaldemar/self-host-repo-hardening-runbook)** — a 7-phase program that brings deployment-template repositories to a supply-chain-hardened baseline: commit-SHA-pinned GitHub Actions with per-job permissions, digest-pinned upstream images with a daily freshness check, OpenSSF Scorecard, CI linting, Trivy upstream scanning.
+**[Self-Host Repo Hardening Runbook](https://github.com/heyvaldemar/self-host-repo-hardening-runbook)** is a 7-phase program that brings deployment-template repositories to a supply-chain-hardened baseline: commit-SHA-pinned GitHub Actions with per-job permissions, digest-pinned upstream images with a daily freshness check, OpenSSF Scorecard, CI linting, Trivy upstream scanning.
 
-**Reference implementations — two repository shapes, one hardening rigor:**
+**Reference implementations, two repository shapes with one hardening rigor:**
 
 | Repository | Shape | Supply-chain surface |
 | :--- | :--- | :--- |
@@ -90,7 +90,7 @@ An AI agent does most of the typing across these repositories. It is fast, and i
 What those checks caught on 23 September 2026, the day that line was first written:
 
 - **A team wiki whose backup logged `Data backup OK` for 12 days and 8 releases** while it archived a storage volume nothing writes to. The uploaded files were in no backup. [The fix](https://github.com/heyvaldemar/outline-keycloak-traefik-letsencrypt-docker-compose/commit/02dc203f0347ad1ee2ced5afa2c1324232f4d366) now restores a file through S3 in CI on every push.
-- **On that day, 72 restore scripts across 47 templates had never been run by CI**, the oldest since May 2021. The tests had restored with their own copy of the commands. [One of the scripts, before and after](https://github.com/heyvaldemar/wordpress-traefik-letsencrypt-docker-compose/commit/cd271e5dc945f00c32aa9546d31799d37a664526): it refused to run on the stack it shipped with. All of them run the shipped script now, and a fleet rule fails any that stops.
+- **On that day, all 72 restore scripts the fleet then carried, across 47 templates, had never been run by CI**, the oldest since May 2021. The tests had restored with their own copy of the commands. [One of the scripts, before and after](https://github.com/heyvaldemar/wordpress-traefik-letsencrypt-docker-compose/commit/cd271e5dc945f00c32aa9546d31799d37a664526): it refused to run on the stack it shipped with. All of them run the shipped script now, and a fleet rule fails any that stops.
 - **Six mistakes by the agent itself in one day**, from [an apostrophe that stopped a backup loop](https://github.com/heyvaldemar/outline-keycloak-traefik-letsencrypt-docker-compose/commit/2605ffbe63f953ac8b93c29fe4ffa2ad371a541f) to [a database client the image does not ship](https://github.com/heyvaldemar/otrs-traefik-letsencrypt-docker-compose/commit/292f5b3ddae05b7af6746a0b3681f4de5dcf2814). None reached a release.
 
 Green is a claim. A restore is evidence.
@@ -107,7 +107,7 @@ Sole architect and technology leader for North American operations at a Series D
 
 Previously: Amazon, IBM, Thales. Designed disaster recovery architecture at scale, distributed systems across continents, reliability engineering for deployments processing millions of requests per minute.
 
-Every architecture decision I publish is backed by production experience.
+Every architecture decision I publish is backed by production experience. **[Four named, first-hand references, each with linked proof](https://heyvaldemar.com/provenance/)**: from Docker's then-CEO, a published security author, and the lead of Snyk's ambassador program.
 
 ---
 
