@@ -72,7 +72,7 @@ Every architecture recommendation backed by production experience. Designed and 
 | [keycloak-traefik-letsencrypt-docker-compose](https://github.com/heyvaldemar/keycloak-traefik-letsencrypt-docker-compose) | Deployment template | Digest-pinned upstream images · daily freshness check against the registry · daily CI deployment smoke · lint + Trivy scan · OpenSSF Scorecard · keyless-signed releases · SLSA build provenance |
 
 <!-- fleet-summary:start -->
-**[88 repositories under this standard](https://github.com/heyvaldemar/catalog)** — 49 self-hosted applications behind Traefik, 14 game servers, 6 other stacks, 8 Terraform pipelines on AWS, 11 operations tools and scripts. Every template is pinned by digest, boots in CI daily, upgrades from its previous release on the same volumes, and is released only after that passes. fleet-ops recounts them once a day and rewrites this line when a number changes; these last changed 2026-09-23 18:12 UTC.
+**[88 repositories under this standard](https://github.com/heyvaldemar/catalog)**: 49 self-hosted applications behind Traefik, 14 game servers, 6 other stacks, 8 Terraform pipelines on AWS, 11 operations tools and scripts. Every template is pinned by digest, boots in CI daily, upgrades from its previous release on the same volumes, and is released only after that passes. fleet-ops recounts them once a day and rewrites this line when a number changes; these last changed 2026-09-25 04:23 UTC.
 <!-- fleet-summary:end -->
 
 ---
@@ -84,7 +84,7 @@ Every architecture recommendation backed by production experience. Designed and 
 An AI agent does most of the typing across these repositories, and nothing it writes ships on its word. It is fast, and it is wrong on a schedule, so a release is cut only after the release commit itself deploys, backs up and restores in CI, and every fleet rule is tested against a planted violation before it is trusted.
 
 <!-- fleet-evidence:start -->
-**Today: 73 restore scripts across 48 repositories, every one of them run by CI.** 837 releases are tagged across the fleet. 47 of 47 templates restored an older release's backup into the current release on a machine that had never run the stack, the fastest in 19 s. OpenSSF Scorecard, run by OpenSSF and not by me, puts the median at 7.2 across 96 repositories. fleet-ops recounts these once a day and rewrites this line when a number changes; these last changed 2026-09-25 02:56 UTC.
+**Today: 73 restore scripts across 48 repositories, every one of them run by CI.** 837 releases are tagged across the fleet. 47 of 47 templates restored an older release's backup into the current release on a machine that had never run the stack, the fastest in 19 s. OpenSSF Scorecard, run by OpenSSF and not by me, puts the median at 7.3 across 96 repositories. The OpenSSF Best Practices badge, a questionnaire I answered and OpenSSF publishes with every answer, is passing on 13 of 24 registered repositories. fleet-ops recounts these once a day and rewrites this line when a number changes; these last changed 2026-09-25 04:29 UTC.
 <!-- fleet-evidence:end -->
 
 What those checks caught on 23 September 2026, the day that line was first written:
