@@ -95,7 +95,7 @@ What those checks caught on 23 September 2026, the day that line was first writt
 
 And on 24 September, the day after: **two defects in the fleet's own watcher, found and fixed before its morning run.** A test's fake failed the way the real function never does, so 116 green tests hid a crash; and three templates whose cron had changed the day before would have been reported sixty-two hours late. Both are in the ledger with the rule each produced. The same day every public repository gained a rule against rewriting `main` and, where it was missing, a security policy; OpenSSF Scorecard scores the result, and the evidence page repeats that score with every check below ten and what it means here.
 
-On 24 September the clean-machine drill went from four templates to every template that ships a restore script, 46 of them, in one afternoon: each one restores its previous release's backup into the current release on a runner that has never run the stack, weekly, and the time is on the evidence page beside the recovery point the template ships with. The line above counts them; a template whose drill fails is listed as failing and carries no time.
+On 24 September the clean-machine drill went from four templates to every template that ships a restore script, all 47, in one day: each one restores its previous release's backup into the current release on a runner that has never run the stack, weekly, and the time is on the evidence page beside the recovery point the template ships with. The line above counts them; a template whose drill fails is listed as failing and carries no time.
 
 Green is a claim. A restore is evidence.
 
