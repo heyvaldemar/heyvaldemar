@@ -81,7 +81,7 @@ Every architecture recommendation backed by production experience. Designed and 
 
 *How an AI agent is run on this fleet*
 
-An AI agent does most of the typing across these repositories. It is fast, and it is wrong on a schedule. So nothing it writes ships on its word: a release is cut only after the release commit itself deploys, backs up and restores in CI, and every fleet rule is tested against a planted violation before it is trusted.
+An AI agent does most of the typing across these repositories, and nothing it writes ships on its word. It is fast, and it is wrong on a schedule, so a release is cut only after the release commit itself deploys, backs up and restores in CI, and every fleet rule is tested against a planted violation before it is trusted.
 
 <!-- fleet-evidence:start -->
 **Today: 73 restore scripts across 48 repositories, every one of them run by CI.** 837 releases are tagged across the fleet. 47 of 47 templates restored an older release's backup into the current release on a machine that had never run the stack, the fastest in 19 s. OpenSSF Scorecard, run by OpenSSF and not by me, puts the median at 7.2 across 96 repositories. fleet-ops recounts these once a day and rewrites this line when a number changes; these last changed 2026-09-25 02:56 UTC.
