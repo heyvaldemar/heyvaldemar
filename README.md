@@ -84,7 +84,7 @@ Every architecture recommendation backed by production experience. Designed and 
 An AI agent does most of the typing across these repositories. It is fast, and it is wrong on a schedule. So nothing it writes ships on its word: a release is cut only after the release commit itself deploys, backs up and restores in CI, and every fleet rule is tested against a planted violation before it is trusted.
 
 <!-- fleet-evidence:start -->
-**Today: 73 restore scripts across 48 repositories, every one of them run by CI.** 835 releases are tagged across the fleet. 46 of 47 templates restored an older release's backup into the current release on a machine that had never run the stack, the fastest in 22 s. OpenSSF Scorecard, run by OpenSSF and not by me, puts the median at 7.2 across 96 repositories. fleet-ops recounts these once a day and rewrites this line when a number changes; these last changed 2026-09-25 00:38 UTC.
+**Today: 73 restore scripts across 48 repositories, every one of them run by CI.** 836 releases are tagged across the fleet. 46 of 47 templates restored an older release's backup into the current release on a machine that had never run the stack, the fastest in 21 s. OpenSSF Scorecard, run by OpenSSF and not by me, puts the median at 7.2 across 96 repositories. fleet-ops recounts these once a day and rewrites this line when a number changes; these last changed 2026-09-25 01:15 UTC.
 <!-- fleet-evidence:end -->
 
 What those checks caught on 23 September 2026, the day that line was first written:
