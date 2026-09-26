@@ -70,7 +70,7 @@ Every architecture recommendation backed by production experience. Designed and 
 | :--- | :--- | :--- |
 | [aws-kubectl-docker](https://github.com/heyvaldemar/aws-kubectl-docker) | Image-publishing | Cosign keyless signing · SBOM (SPDX) · SLSA build provenance · Trivy SARIF · digest-pinned base · OpenSSF Scorecard |
 | [keycloak-traefik-letsencrypt-docker-compose](https://github.com/heyvaldemar/keycloak-traefik-letsencrypt-docker-compose) | Deployment template | Digest-pinned upstream images · daily freshness check against the registry · daily CI deployment smoke · lint + Trivy scan · OpenSSF Scorecard · OpenSSF Best Practices passing · keyless-signed releases · SLSA build provenance |
-| [fleet-ops](https://github.com/heyvaldemar/fleet-ops) | The automation that runs the other 97 | Lint · OpenSSF Scorecard · OpenSSF Best Practices passing · keyless-signed releases · SLSA build provenance |
+| [fleet-ops](https://github.com/heyvaldemar/fleet-ops) | The automation that runs the fleet | Lint · OpenSSF Scorecard · OpenSSF Best Practices passing · keyless-signed releases · SLSA build provenance |
 
 <!-- fleet-summary:start -->
 **[88 repositories under this standard](https://github.com/heyvaldemar/catalog)**: 49 self-hosted applications behind Traefik, 14 game servers, 6 other stacks, 8 Terraform pipelines on AWS, 11 operations tools and scripts. Every template is pinned by digest, boots in CI daily, upgrades from its previous release on the same volumes, and is released only after that passes. fleet-ops recounts them once a day and rewrites this line when a number changes; these last changed 2026-09-25 04:23 UTC.
