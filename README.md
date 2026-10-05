@@ -10,7 +10,7 @@
 
 ### What I Do
 
-One of fewer than 250 Docker Captains worldwide. 10 vendor-recognized community titles across Docker, IBM, CNCF, AWS, HashiCorp, Snyk, Cypress, Notion, GitKraken, and Platform Engineering, earned through contribution rather than credentials.
+[One of fewer than 250 Docker Captains worldwide](https://www.docker.com/community/captains/). 10 vendor-recognized community titles across Docker, IBM, CNCF, AWS, HashiCorp, Snyk, Cypress, Notion, GitKraken, and Platform Engineering, earned through contribution rather than credentials.
 
 Every architecture recommendation backed by production experience. Designed and delivered cloud infrastructure at Amazon, IBM, Thales, and a Series D data platform serving Fortune 500 clients. I design scalable systems and publish what I learn: reference architectures for container security, AI governance, and platform engineering used by practitioners worldwide.
 
@@ -53,8 +53,8 @@ Every architecture recommendation backed by production experience. Designed and 
 - **Cypress Blog:** [Cypress in the Age of AI Agents](https://dev.to/cypress/cypress-in-the-age-of-ai-agents-orchestration-trust-and-the-tests-that-run-themselves-43go)
 - **Cypress Blog:** [Docker + Cypress: Perfecting E2E Testing](https://dev.to/cypress/docker-cypress-in-2025-how-ive-perfected-my-e2e-testing-setup-4f7j)
 - **Cypress Blog:** [Cypress Test Replay: The Ultimate Guide to Time-Travel Debugging](https://dev.to/cypress/cypress-test-replay-in-2025-the-ultimate-guide-to-time-travel-debugging-5485)
-- **Book:** [Technical Editor of "Docker and Kubernetes Security"](https://www.dockersecurity.io/)
-- **Open Source:** [70+ production-grade deployment blueprints](https://github.com/heyvaldemar) · [1,000,000+ Docker Hub pulls](https://hub.docker.com/r/heyvaldemar/aws-kubectl)
+- **Book:** [Technical Editor — "Docker and Kubernetes Security" by Mohammad-Ali A'râbi (self-published, first published October 2025)](https://containersecurity.dev/docker-and-kubernetes-security)
+- **Open Source:** [70+ open-source deployment blueprints](https://github.com/heyvaldemar) · [1.5M+ Docker Hub pulls (aws-kubectl)](https://hub.docker.com/r/heyvaldemar/aws-kubectl)
 
 ---
 
