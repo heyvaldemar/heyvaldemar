@@ -10,7 +10,7 @@
 
 ### What I Do
 
-[One of fewer than 250 Docker Captains worldwide](https://www.docker.com/community/captains/). 9 vendor-recognized community titles across Docker, IBM, CNCF, AWS, Snyk, Cypress, Notion, GitKraken, and Platform Engineering, earned through contribution rather than credentials.
+[One of fewer than 250 Docker Captains worldwide](https://www.docker.com/community/captains/). 10 vendor-recognized community titles across Docker, IBM, CNCF, AWS, HashiCorp, Snyk, Cypress, Notion, GitKraken, and Platform Engineering, earned through contribution rather than credentials.
 
 Every architecture recommendation backed by production experience. Designed and delivered cloud infrastructure at Amazon, IBM, Thales, and a Series D data platform serving Fortune 500 clients. I design scalable systems and publish what I learn: reference architectures for container security, AI governance, and platform engineering used by practitioners worldwide.
 
@@ -118,7 +118,7 @@ Every architecture decision I publish is backed by production experience. **[Nam
 
 ### Community Titles
 
-*9 active vendor-recognized programs*
+*10 active vendor-recognized programs*
 
 | Organization | Title | Domain |
 | :--- | :--- | :--- |
@@ -126,6 +126,7 @@ Every architecture decision I publish is backed by production experience. **[Nam
 | [**IBM**](https://www.ibm.com/community/ibm-champions/) | Champion | Enterprise AI, Cloud, Automation, HashiCorp/Terraform portfolio |
 | [**AWS**](https://builder.aws.com/community/community-builders) | Community Builder | Cloud architecture, EKS, Serverless |
 | [**CNCF**](https://www.cncf.io/people/ambassadors/) | Ambassador | Kubernetes and the cloud native ecosystem |
+| [**HashiCorp**](https://www.hashicorp.com/en/ambassador/directory?q=mikhalev) | Ambassador | Terraform, Vault, infrastructure as code |
 | [**Platform Engineering**](https://platformengineering.org/ambassador-program) | Ambassador | Internal Developer Platforms |
 | [**Snyk**](https://snyk.io/snyk-ambassadors/directory/) | Ambassador | Application security, supply chain |
 | [**Cypress**](https://www.cypress.io/ambassadors) | Ambassador | Test automation, AI agents in testing |
