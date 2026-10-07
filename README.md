@@ -10,7 +10,7 @@
 
 ### What I Do
 
-[One of fewer than 250 Docker Captains worldwide](https://www.docker.com/community/captains/). 10 vendor-recognized community titles across Docker, IBM, CNCF, AWS, HashiCorp, Snyk, Cypress, Notion, GitKraken, and Platform Engineering, earned through contribution rather than credentials.
+[One of fewer than 250 Docker Captains worldwide](https://www.docker.com/community/captains/). 10 vendor community titles across Docker, IBM, CNCF, AWS, HashiCorp, Snyk, Cypress, Notion, GitKraken, and Platform Engineering, earned through contribution rather than credentials.
 
 Every architecture recommendation backed by production experience. Operations and support roles at IBM (2016–2017), Amazon (2018) and Thales (2018–2019) in Brno and Prague before Ataccama, a data platform serving Fortune 500 clients. I design scalable systems and publish what I learn: reference architectures for container security, AI governance, and platform engineering used by practitioners worldwide.
 
@@ -53,7 +53,7 @@ Every architecture recommendation backed by production experience. Operations an
 - **Cypress Blog:** [Cypress in the Age of AI Agents](https://dev.to/cypress/cypress-in-the-age-of-ai-agents-orchestration-trust-and-the-tests-that-run-themselves-43go)
 - **Cypress Blog:** [Docker + Cypress: Perfecting E2E Testing](https://dev.to/cypress/docker-cypress-in-2025-how-ive-perfected-my-e2e-testing-setup-4f7j)
 - **Cypress Blog:** [Cypress Test Replay: The Ultimate Guide to Time-Travel Debugging](https://dev.to/cypress/cypress-test-replay-in-2025-the-ultimate-guide-to-time-travel-debugging-5485)
-- **Book:** [Technical Editor — "Docker and Kubernetes Security" by Mohammad-Ali A'râbi (self-published, first published October 2025)](https://dev.to/docker/i-just-published-my-book-docker-and-kubernetes-security-17lo) · [Goodreads](https://www.goodreads.com/book/show/242196088)
+- **Book:** [Technical Editor — "Docker and Kubernetes Security" by Mohammad-Ali A'râbi (self-published, 2025)](https://dev.to/docker/i-just-published-my-book-docker-and-kubernetes-security-17lo) · [Goodreads](https://www.goodreads.com/book/show/242196088)
 - **Open Source:** [70+ open-source deployment blueprints](https://github.com/heyvaldemar) · [1.5M+ Docker Hub pulls (aws-kubectl)](https://hub.docker.com/r/heyvaldemar/aws-kubectl)
 
 ---
@@ -62,7 +62,7 @@ Every architecture recommendation backed by production experience. Operations an
 
 *Formalized supply-chain hardening program for public deployment-template repositories*
 
-**[Self-Host Repo Hardening Runbook](https://github.com/heyvaldemar/self-host-repo-hardening-runbook)** is a 7-phase program that brings deployment-template repositories to a supply-chain-hardened baseline: commit-SHA-pinned GitHub Actions with per-job permissions, digest-pinned upstream images with a daily freshness check, OpenSSF Scorecard, CI linting, Trivy upstream scanning.
+**[Self-Host Repo Hardening Runbook](https://github.com/heyvaldemar/self-host-repo-hardening-runbook)** is an 8-phase program that brings deployment-template repositories to a supply-chain-hardened baseline: commit-SHA-pinned GitHub Actions with per-job permissions, digest-pinned upstream images with a daily freshness check, OpenSSF Scorecard, CI linting, Trivy upstream scanning.
 
 **Reference implementations, three repository shapes with one hardening rigor:**
 
@@ -118,7 +118,7 @@ Every architecture decision I publish is backed by production experience. **[Nam
 
 ### Community Titles
 
-*10 active vendor-recognized programs*
+*10 vendor community titles*
 
 | Organization | Title | Domain |
 | :--- | :--- | :--- |
@@ -126,7 +126,7 @@ Every architecture decision I publish is backed by production experience. **[Nam
 | [**IBM**](https://www.ibm.com/community/ibm-champions/) | Champion | Enterprise AI, Cloud, Automation, HashiCorp/Terraform portfolio |
 | [**AWS**](https://builder.aws.com/community/community-builders) | Community Builder | Cloud architecture, EKS, Serverless |
 | [**CNCF**](https://www.cncf.io/people/ambassadors/) | Ambassador | Kubernetes and the cloud native ecosystem |
-| [**HashiCorp**](https://www.hashicorp.com/en/ambassador/directory?q=mikhalev) | Ambassador | Terraform, Vault, infrastructure as code |
+| [**HashiCorp**](https://www.hashicorp.com/en/ambassador/directory?q=mikhalev) | Ambassador (2024-2025), continuing as IBM Champion 2026 | Terraform, Vault, infrastructure as code |
 | [**Platform Engineering**](https://platformengineering.org/ambassador-program) | Ambassador | Internal Developer Platforms |
 | [**Snyk**](https://snyk.io/snyk-ambassadors/directory/) | Ambassador | Application security, supply chain |
 | [**Cypress**](https://www.cypress.io/ambassadors) | Ambassador | Test automation, AI agents in testing |
