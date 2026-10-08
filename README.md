@@ -12,7 +12,7 @@
 
 [One of fewer than 250 Docker Captains worldwide](https://www.docker.com/community/captains/). 10 vendor community titles across Docker, IBM, CNCF, AWS, HashiCorp, Snyk, Cypress, Notion, GitKraken, and Platform Engineering, earned through contribution rather than credentials.
 
-Every architecture recommendation backed by production experience. Operations and support roles at IBM (2016–2017), Amazon (2018) and Thales (2018–2019) in Brno and Prague before Ataccama, a data platform serving Fortune 500 clients. I design scalable systems and publish what I learn: reference architectures for container security, AI governance, and platform engineering used by practitioners worldwide.
+Every architecture recommendation backed by production experience. Earlier: operations and support roles at IBM, IPONWEB, Amazon and Thales (2016–2019). I design scalable systems and publish what I learn: reference architectures for container security, AI governance, and platform engineering used by practitioners worldwide.
 
 ---
 
