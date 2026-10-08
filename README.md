@@ -30,6 +30,14 @@ Every architecture recommendation backed by production experience. Operations an
 >
 > — Scott Johnston, CEO, Docker (2019–2025)
 
+> *"Vladimir is among a small number of Captains whose work has both shaped Docker's developer ecosystem and demonstrated technical communication at the highest level."*
+>
+> — Eva Bojorges, Senior Developer Relations Manager, Docker, Inc. ([recommendation letter, 2026](https://heyvaldemar.com/provenance/))
+
+> *"The program ran above fifty ambassadors at its strongest … Across his tenure he sat consistently among the top three by sustained contribution …"*
+>
+> — Gérald Crescione, Head of AI Security Engineers Community, Snyk ([recommendation letter, 2026](https://heyvaldemar.com/provenance/))
+
 **Snyk Ambassador Award finalist (2023)** · [Named first-hand references, with linked proof](https://heyvaldemar.com/provenance/)
 
 ---
@@ -112,7 +120,7 @@ I build the platforms, run the company-wide systems on top of them, and am the s
 
 Earlier: operations and support roles at IBM, Amazon and Thales (2016–2019).
 
-Every architecture decision I publish is backed by production experience. **[Named first-hand references, each with linked proof](https://heyvaldemar.com/provenance/)**: from Docker's then-CEO, a published security author, and the lead of Snyk's ambassador program.
+Every architecture decision I publish is backed by production experience. **[Named first-hand references, each with linked proof](https://heyvaldemar.com/provenance/)**: from Docker's then-CEO, the Docker Captains program lead, a published security author, and the lead of Snyk's ambassador program.
 
 ---
 
