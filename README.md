@@ -118,7 +118,7 @@ Green is a claim. A restore is evidence.
 
 I build the platforms, run the company-wide systems on top of them, and am the sole IT and DevOps engineer for North America. I am the Kubernetes and cloud expert on customer calls, answer customer security questionnaires, and run a production platform on Amazon EKS with Terraform and GitHub Actions. Docker published one of my migrations as [an enterprise customer story](https://www.docker.com/customer-stories/ataccama) with 75% faster deployments and 40% fewer servers.
 
-Earlier: operations and support roles at IBM, Amazon and Thales (2016–2019).
+Earlier: operations and support roles at IBM, IPONWEB, Amazon and Thales (2016–2019).
 
 Every architecture decision I publish is backed by production experience. **[Named first-hand references, each with linked proof](https://heyvaldemar.com/provenance/)**: from Docker's then-CEO, the Docker Captains program lead, a published security author, and the lead of Snyk's ambassador program.
 
