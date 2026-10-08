@@ -53,7 +53,7 @@ Every architecture recommendation backed by production experience. Operations an
 - **Cypress Blog:** [Cypress in the Age of AI Agents](https://dev.to/cypress/cypress-in-the-age-of-ai-agents-orchestration-trust-and-the-tests-that-run-themselves-43go)
 - **Cypress Blog:** [Docker + Cypress: Perfecting E2E Testing](https://dev.to/cypress/docker-cypress-in-2025-how-ive-perfected-my-e2e-testing-setup-4f7j)
 - **Cypress Blog:** [Cypress Test Replay: The Ultimate Guide to Time-Travel Debugging](https://dev.to/cypress/cypress-test-replay-in-2025-the-ultimate-guide-to-time-travel-debugging-5485)
-- **Book:** [Technical Editor — "Docker and Kubernetes Security" by Mohammad-Ali A'râbi (self-published, 2025)](https://dev.to/docker/i-just-published-my-book-docker-and-kubernetes-security-17lo) · [Goodreads](https://www.goodreads.com/book/show/242196088)
+- **Book:** Technical Editor of [Docker and Kubernetes Security](https://dev.to/docker/i-just-published-my-book-docker-and-kubernetes-security-17lo) (Mohammad-Ali A'râbi, 2025), a [DevOps Dozen 2025 finalist](https://devops.com/devops-dozen-2025-finalists-announced/) for Best DevOps Book of the Year. Retail record: [Goodreads](https://www.goodreads.com/book/show/242196088)
 - **Open Source:** [70+ open-source deployment blueprints](https://github.com/heyvaldemar) · [1.5M+ Docker Hub pulls (aws-kubectl)](https://hub.docker.com/r/heyvaldemar/aws-kubectl)
 
 ---
