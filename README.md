@@ -30,7 +30,7 @@ Every architecture recommendation backed by production experience. Operations an
 >
 > — Scott Johnston, CEO, Docker (2019–2025)
 
-**Snyk Ambassador Award Finalist** · [Named first-hand references, with linked proof](https://heyvaldemar.com/provenance/)
+**Snyk Ambassador Award finalist (2023)** · [Named first-hand references, with linked proof](https://heyvaldemar.com/provenance/)
 
 ---
 
@@ -128,7 +128,7 @@ Every architecture decision I publish is backed by production experience. **[Nam
 | [**CNCF**](https://www.cncf.io/people/ambassadors/) | Ambassador | Kubernetes and the cloud native ecosystem |
 | [**HashiCorp**](https://www.hashicorp.com/en/ambassador/directory?q=mikhalev) | Ambassador (2024-2025), continuing as IBM Champion 2026 | Terraform, Vault, infrastructure as code |
 | [**Platform Engineering**](https://platformengineering.org/ambassador-program) | Ambassador | Internal Developer Platforms |
-| [**Snyk**](https://snyk.io/snyk-ambassadors/directory/) | Ambassador | Application security, supply chain |
+| [**Snyk**](https://snyk.io/snyk-ambassadors/directory/) | Ambassador (2023-2026), Ambassador Award finalist (2023) | Application security, supply chain |
 | [**Cypress**](https://www.cypress.io/ambassadors) | Ambassador | Test automation, AI agents in testing |
 | [**GitKraken**](https://www.gitkraken.com/meet-the-gitkraken-ambassadors) | Ambassador | Git workflows, version control |
 | [**Notion**](https://www.notion.so/notion/Notion-Ambassador-Program-45448f9b8e704c7bab254bd505c4717c) | Ambassador | Engineering knowledge management |
