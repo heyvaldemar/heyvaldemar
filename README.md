@@ -2,7 +2,7 @@
 
 # Vladimir Mikhalev
 
-**Docker Captain · IBM Champion · CNCF Ambassador · AWS Community Builder**
+**Docker Captain · CNCF Ambassador · IBM Champion**
 
 </div>
 
@@ -160,7 +160,7 @@ The decisions I publish come from production work. **[Named first-hand reference
 
 **Vladimir Mikhalev**
 
-Docker Captain · IBM Champion · CNCF Ambassador · AWS Community Builder
+Docker Captain · CNCF Ambassador · IBM Champion
 
 *The Verdict — production-tested analysis on YouTube.*
 
