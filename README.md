@@ -12,13 +12,13 @@
 
 I test what ships and publish what I find, failures included: 100+ public repositories, every restore script run by CI, every finding on [the ledger](https://heyvaldemar.com/ledger/) with its rule. [One of fewer than 250 Docker Captains worldwide](https://www.docker.com/community/captains/). 10 vendor community titles across Docker, IBM, CNCF, AWS, HashiCorp, Snyk, Cypress, Notion, GitKraken, and Platform Engineering, earned through contribution rather than credentials.
 
-The recommendations come from a decade of production work; the repositories below are reference architectures, and each says so. Earlier: operations and support roles at IBM, IPONWEB, Amazon and Thales (2016–2019). I design scalable systems and publish what I learn: reference architectures for container security, AI governance, and platform engineering used by practitioners worldwide.
+I design cloud and container platforms on Kubernetes, Terraform and AWS, secure their software supply chain, and explain the trade-offs to engineers, customers and leadership. The repositories below are reference architectures, and each says so. Earlier: operations and support roles at IBM, IPONWEB, Amazon and Thales (2016–2019).
 
 ---
 
 ### Recognition
 
-*Docker CEO on my contributions to the ecosystem*
+*Docker's then-CEO on video, and three program leads on LinkedIn*
 
 <div align="center">
 
@@ -28,15 +28,19 @@ The recommendations come from a decade of production work; the repositories belo
 
 > *"Vladimir has written more than 100 pieces of content for Docker in the past year. He has also helped us find customer stories that we've been able to document and share throughout the rest of the community. And he's met with multiple product managers internally to share his product feedback."*
 >
-> — Scott Johnston, CEO, Docker (2019–2025)
+> **Scott Johnston**, CEO, Docker (2019–2025)
 
-> *"Vladimir is among a small number of Captains whose work has both shaped Docker's developer ecosystem and demonstrated technical communication at the highest level."*
+> *"Vladimir belongs to a small group of Captains whose work has shaped Docker's developer ecosystem while setting the standard for technical communication in our community."*
 >
-> — Eva Bojorges, Senior Developer Relations Manager, Docker, Inc. ([recommendation letter, 2026](https://heyvaldemar.com/provenance/))
+> **Eva Bojorges**, Senior Developer Relations Manager, Docker, Inc. ([recommendation on LinkedIn](https://www.linkedin.com/in/heyvaldemar/details/recommendations/))
 
-> *"The program ran above fifty ambassadors at its strongest … Across his tenure he sat consistently among the top three by sustained contribution …"*
+> *"Vladimir consistently ranked among the top three for sustained contribution in a program that had over 50 ambassadors across all continents at its peak at the time … He is one of the strongest security practitioners I have worked with anywhere."*
 >
-> — Gérald Crescione, Head of AI Security Engineers Community, Snyk ([recommendation letter, 2026](https://heyvaldemar.com/provenance/))
+> **Gérald Crescione**, Head of AI Security Engineers Community, Snyk ([recommendation on LinkedIn](https://www.linkedin.com/in/heyvaldemar/details/recommendations/))
+
+> *"He brought us well-developed drafts he had written himself, with customer results already gathered and a clear understanding of both the technical work and its business impact."*
+>
+> **Dan Stelzer**, partner marketing and the customer case study program, Docker ([recommendation on LinkedIn](https://www.linkedin.com/in/heyvaldemar/details/recommendations/))
 
 **Snyk Ambassador Award finalist (2023)** · [Named first-hand references, with linked proof](https://heyvaldemar.com/provenance/)
 
@@ -129,11 +133,11 @@ Green is a claim. A restore is evidence.
 
 *Where the decisions come from*
 
-I build the platforms, run the company-wide systems on top of them, and am the sole IT and DevOps engineer for North America. I am the Kubernetes and cloud expert on customer calls, answer customer security questionnaires, and run a production platform on Amazon EKS with Terraform and GitHub Actions. Docker published one of my migrations as [an enterprise customer story](https://www.docker.com/customer-stories/ataccama) with 75% faster deployments and 40% fewer servers.
+I build the platforms, run the company-wide systems on top of them, and am the sole IT and DevOps engineer for North America. I am the Kubernetes and cloud expert on customer calls, answer customer security questionnaires, and run a production platform on Amazon EKS with Terraform and GitHub Actions. I drove the container platform decision (Docker over Podman) for moving legacy applications to containers, and I am the customer-side voice of [Docker's enterprise customer story](https://www.docker.com/customer-stories/ataccama) on that move: 75% faster deployments and 40% fewer servers.
 
 Earlier: operations and support roles at IBM, IPONWEB, Amazon and Thales (2016–2019).
 
-The decisions I publish come from production work. **[Named first-hand references, each with linked proof](https://heyvaldemar.com/provenance/)**: from Docker's then-CEO, the Docker Captains program lead, a published security author, and the lead of Snyk's ambassador program.
+The decisions I publish come from production work. **[Named first-hand references, each with linked proof](https://heyvaldemar.com/provenance/)**: from Docker's then-CEO, the Docker Captains program lead, the lead of Docker's customer case study program, a published security author, and the lead of Snyk's ambassador program.
 
 ---
 
@@ -162,7 +166,7 @@ The decisions I publish come from production work. **[Named first-hand reference
 
 Docker Captain · CNCF Ambassador · IBM Champion
 
-*The Verdict — production-tested analysis on YouTube.*
+*The Verdict: production-tested analysis on YouTube.*
 
 [YouTube](https://www.youtube.com/@valdemar_ai?sub_confirmation=1) · [Blog](https://heyvaldemar.com) · [LinkedIn](https://www.linkedin.com/in/heyvaldemar/)
 
