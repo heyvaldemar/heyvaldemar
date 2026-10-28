@@ -58,6 +58,13 @@ I design cloud and container platforms on Kubernetes, Terraform and AWS, secure 
 
 Reported upstream from these repositories: [gVisor](https://github.com/google/gvisor/issues/15756), [Kyverno](https://github.com/kyverno/kyverno/issues/18023) with a reproduction, [Kyverno and image volumes](https://github.com/kyverno/kyverno/pull/17555#issuecomment-6245868388) with a tested workaround, [a split of a Kyverno fix](https://github.com/kyverno/kyverno/issues/18000#issuecomment-6159962152) that has since merged, [Kyverno's docs](https://github.com/kyverno/website/pull/2201), [Trivy](https://github.com/aquasecurity/trivy/discussions/11403) and [metrics-server on EKS](https://github.com/kubernetes-sigs/metrics-server/issues/1868#issuecomment-6195863017).
 
+### Migrations
+
+*A move from one vendor to another, run in CI on every change, with each step shown the failure it prevents*
+
+- **[docker-hardened-images-migration](https://github.com/heyvaldemar/docker-hardened-images-migration)**: a production Compose stack, Keycloak behind Traefik on PostgreSQL, moved to Docker Hardened Images. Swapping the images alone broke five things, and in a stack without a read-only root one of them loses data with no error: the hardened PostgreSQL keeps its cluster in a versioned directory, so a compose file still mounted at the official image's path writes inside the container. Each change in the override is taken out in CI to show the failure it fixes, an install moved from the official images keeps its data, and the CVE counts are given by both Trivy and Docker Scout, which disagree. As written, the direct-copy route in Docker's own guide ends on an empty cluster the same way; the fix is open as [docker-hardened-images/catalog#685](https://github.com/docker-hardened-images/catalog/pull/685).
+- **[snyk-to-gitlab-security-migration](https://github.com/heyvaldemar/snyk-to-gitlab-security-migration)**: application security moved from Snyk to GitLab's scanners. Both run on one image in every CI run, every Snyk finding is mapped to what GitLab reports for it, ignores carry their reasons and expiry dates, and a gate fails when the move would lose a critical or high finding. It found that GitLab's vulnerability allowlist has no expiry, so a temporary acceptance carried as it is becomes a permanent one.
+
 ---
 
 ### Published Work
