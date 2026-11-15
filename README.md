@@ -42,6 +42,18 @@ I design cloud and container platforms on Kubernetes, Terraform and AWS, secure 
 >
 > **Dan Stelzer**, partner marketing and the customer case study program, Docker ([recommendation on LinkedIn](https://www.linkedin.com/in/heyvaldemar/details/recommendations/))
 
+> *"When we got the React guide ready for Docker's blog, he tested the Compose setup on his own machine before we shipped it, which is how he works on everything."*
+>
+> **Ajeet Singh Raina**, Developer Advocate, Docker ([recommendation on LinkedIn](https://www.linkedin.com/in/heyvaldemar/details/recommendations/))
+
+> *"Vladimir is one of the people whose technical opinion others actively seek out before making security architecture decisions."*
+>
+> **Mohammad-Ali A'râbi**, Docker Captain, author of "Docker and Kubernetes Security" (recommendation letter, May 2026; I was the book's [technical editor](https://www.amazon.com/dp/B0FJY9DJR4))
+
+> *"Vladimir has exceptional ability to get from vague problem description to a design that fits the real world situation. He plainly explains trade-offs so they are understandable to both engineering and non-engineering audience."*
+>
+> **Marek Ovcacek**, former Field CTO, Ataccama ([recommendation on LinkedIn](https://www.linkedin.com/in/heyvaldemar/details/recommendations/))
+
 **Snyk Ambassador Award finalist (2023)** · [Named first-hand references, with linked proof](https://heyvaldemar.com/provenance/)
 
 ---
