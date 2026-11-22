@@ -186,7 +186,7 @@ The decisions I publish come from production work. **[Named first-hand reference
 | [**CNCF**](https://www.cncf.io/people/ambassadors/?p=vladimir-mikhalev) | Ambassador (2026-2028 cohort) | Kubernetes and the cloud native ecosystem |
 | [**HashiCorp**](https://www.hashicorp.com/en/ambassador/directory?q=mikhalev) | Ambassador (2024-2025), continuing as IBM Champion 2026 | Terraform, Vault, infrastructure as code |
 | [**Platform Engineering**](https://platformengineering.org/ambassador-program) | Ambassador | Internal Developer Platforms |
-| **Snyk** | Ambassador (2023-2026), Ambassador Award finalist (2023) | Application security, supply chain |
+| [**Snyk**](https://heyvaldemar.com/provenance/#gerald-crescione) | Ambassador (2023-2026), Ambassador Award finalist (2023) | Application security, supply chain |
 | [**Cypress**](https://www.cypress.io/ambassadors#ambassadors-profiles) | Ambassador | Test automation, AI agents in testing |
 | [**GitKraken**](https://www.gitkraken.com/meet-the-gitkraken-ambassadors) | Ambassador | Git workflows, version control |
 | [**Notion**](https://www.notion.so/notion/Notion-Ambassador-Program-45448f9b8e704c7bab254bd505c4717c) | Ambassador | Engineering knowledge management |
