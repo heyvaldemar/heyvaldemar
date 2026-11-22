@@ -46,9 +46,9 @@ I design cloud and container platforms on Kubernetes, Terraform and AWS, secure 
 >
 > **Ajeet Singh Raina**, Developer Advocate, Docker ([recommendation on LinkedIn](https://www.linkedin.com/in/heyvaldemar/details/recommendations/))
 
-> *"Vladimir is one of the people whose technical opinion others actively seek out before making security architecture decisions."*
+> *"I especially appreciated his feedback on the software supply chain chapters. … Vladimir caught things that had already gone out of date and helped me make the examples more useful for readers who wanted to try them out."*
 >
-> **Mohammad-Ali A'râbi**, Docker Captain, author of "Docker and Kubernetes Security" (recommendation letter, May 2026; I was the book's [technical editor](https://www.amazon.com/dp/B0FJY9DJR4))
+> **Mohammad-Ali A'râbi**, Docker Captain, author of "Docker and Kubernetes Security" ([recommendation on LinkedIn](https://www.linkedin.com/in/heyvaldemar/details/recommendations/); I was the book's [technical editor](https://www.amazon.com/dp/B0FJY9DJR4))
 
 > *"Vladimir has exceptional ability to get from vague problem description to a design that fits the real world situation. He plainly explains trade-offs so they are understandable to both engineering and non-engineering audience."*
 >
