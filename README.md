@@ -182,12 +182,12 @@ The decisions I publish come from production work. **[Named first-hand reference
 | :--- | :--- | :--- |
 | [**Docker**](https://www.docker.com/contributors/vladimir-mikhalev/) | Captain | Container architecture, security, and developer workflows |
 | [**IBM**](https://www.credly.com/badges/c0b85821-c9f1-4446-a9af-6d43f67b893f) | Champion | Enterprise AI, Cloud, Automation, HashiCorp/Terraform portfolio |
-| [**AWS**](https://builder.aws.com/community/community-builders) | Community Builder | Cloud architecture, EKS, Serverless |
-| [**CNCF**](https://www.cncf.io/blog/2026/10/06/2026-2028-cncf-ambassador-cohort/) | Ambassador (2026-2028 cohort) | Kubernetes and the cloud native ecosystem |
-| [**HashiCorp**](https://www.hashicorp.com/en/ambassador/directory?q=mikhalev) | Ambassador (2024-2025), continuing as IBM Champion 2026 | Terraform, Vault, infrastructure as code |
+| [**AWS**](https://builder.aws.com/community/@heyvaldemar) | Community Builder | Cloud architecture, EKS, Serverless |
+| [**CNCF**](https://www.credly.com/badges/5a56cf3d-2604-48bc-b028-8f5c9c31b5f8) | Ambassador (2026-2028 cohort) | Kubernetes and the cloud native ecosystem |
+| [**HashiCorp**](https://www.credly.com/badges/e007e6d6-58ef-431f-9218-36d880b5c2d4) | Ambassador (2024-2025), continuing as IBM Champion 2026 | Terraform, Vault, infrastructure as code |
 | [**Platform Engineering**](https://platformengineering.org/ambassador-program) | Ambassador | Internal Developer Platforms |
 | [**Snyk**](https://snyk.io/snyk-ambassadors/directory/) | Ambassador (2023-2026), Ambassador Award finalist (2023) | Application security, supply chain |
-| [**Cypress**](https://www.cypress.io/ambassadors) | Ambassador | Test automation, AI agents in testing |
+| [**Cypress**](https://www.cypress.io/blog/cypress-ambassador-spotlight-vladimir-mikhalev) | Ambassador | Test automation, AI agents in testing |
 | [**GitKraken**](https://www.gitkraken.com/meet-the-gitkraken-ambassadors) | Ambassador | Git workflows, version control |
 | [**Notion**](https://www.notion.so/notion/Notion-Ambassador-Program-45448f9b8e704c7bab254bd505c4717c) | Ambassador | Engineering knowledge management |
 
