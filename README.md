@@ -12,7 +12,7 @@
 
 I test what ships and publish what I find, failures included: 100+ public repositories, every restore script run by CI, every finding on [the ledger](https://heyvaldemar.com/ledger/) with its rule. [One of fewer than 250 Docker Captains worldwide](https://www.docker.com/community/captains/). 10 vendor community titles across Docker, IBM, CNCF, AWS, HashiCorp, Snyk, Cypress, Notion, GitKraken, and Platform Engineering, earned through contribution rather than credentials.
 
-I design cloud and container platforms on Kubernetes, Terraform and AWS, secure their software supply chain, and explain the trade-offs to engineers, customers and leadership. The repositories below are reference architectures, and each says so. Earlier: operations and support roles at IBM, IPONWEB, Amazon and Thales (2016–2019).
+I design cloud and container platforms on Kubernetes, Terraform and AWS, secure their software supply chain and the AI agents that run on them, and explain the trade-offs to engineers, customers and leadership. The repositories below are reference architectures, and each says so. Earlier: operations and support roles at IBM, IPONWEB, Amazon and Thales (2016–2019).
 
 ---
 
