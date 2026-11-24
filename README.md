@@ -55,7 +55,7 @@ I design cloud and container platforms on Kubernetes, Terraform and AWS, secure 
 
 Open-source product: **[oxy-llm-gateway](https://github.com/heyvaldemar/oxy-llm-gateway)**, a self-hosted LLM gateway co-authored with [DevOpsPink](https://github.com/DevOpsPink): per-project budgets, data loss prevention, a kill switch and an audit row for every request.
 
-**[Everything else, with what each one found](https://heyvaldemar.com/work/)** · reported upstream to [gVisor](https://github.com/google/gvisor/issues/15756), [Kyverno](https://github.com/kyverno/kyverno/issues/18023) (fixed in [1.20.0](https://github.com/kyverno/kyverno/releases/tag/v1.20.0)), [Trivy](https://github.com/aquasecurity/trivy/discussions/11403), [kube-network-policies](https://github.com/kubernetes-sigs/kube-network-policies/issues/452), [Docker Sandboxes](https://github.com/docker/sbx-releases/issues/818) (fixed) and [Docker Hardened Images](https://github.com/docker-hardened-images/catalog/pull/685)
+**[Everything else, with what each one found](https://heyvaldemar.com/work/)** · reported upstream to [gVisor](https://github.com/gvisor/gvisor/issues/15756), [Kyverno](https://github.com/kyverno/kyverno/issues/18023) (fixed in [1.20.0](https://github.com/kyverno/kyverno/releases/tag/v1.20.0)), [Trivy](https://github.com/aquasecurity/trivy/discussions/11403), [kube-network-policies](https://github.com/kubernetes-sigs/kube-network-policies/issues/452), [Docker Sandboxes](https://github.com/docker/sbx-releases/issues/818) (fixed) and [Docker Hardened Images](https://github.com/docker-hardened-images/catalog/pull/685)
 
 ---
 
