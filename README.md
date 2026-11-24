@@ -10,14 +10,50 @@
 
 ### What I Do
 
-Companies are handing AI agents the keys: code, data, cloud accounts. Few teams can show, with proof, what an agent can reach when someone feeds it the wrong instruction. I build these systems, attack them myself and publish what held and what broke. One example: an agent in a cluster with no route to the internet meets planted instructions every day; with the tool's rules hidden from them, six models tried to send data out 92 times, and the boundary refused all 92. Its checks run on a schedule on AWS, Google Cloud and Azure, and every number links to its run.
+AI agents now hold the keys: code, data, cloud accounts. I build the boundary around them, attack it myself and publish what held and what broke. In one cluster with no route to the internet, six models read planted instructions. With the tool's rules hidden from them, they tried to send data out 92 times. [The boundary refused all 92](https://github.com/heyvaldemar/kubernetes-air-gapped-ai-agent). It is tested every week on AWS, Google Cloud and Azure.
 
-Models will keep getting smarter. The question will not change: what may a machine do, and who proves it can do nothing else.
+Models will get smarter. The question stays: what may a machine do, and who proves it can do nothing else.
 
-I test what ships and publish what I find, failures included: 100+ public repositories, every restore script run by CI, every finding on [the ledger](https://heyvaldemar.com/ledger/) with its rule. [One of fewer than 250 Docker Captains worldwide](https://www.docker.com/community/captains/). 11 vendor community titles across Docker, IBM, CNCF, AWS, HashiCorp, Snyk, Cypress, Notion, Coder, GitKraken, and Platform Engineering, earned through contribution rather than credentials.
+I test what ships and publish what I find, failures included: 100+ public repositories, every restore script run by CI, every finding on [the ledger](https://heyvaldemar.com/ledger/) with its rule. [One of fewer than 250 Docker Captains worldwide](https://www.docker.com/community/captains/). 11 vendor community titles across Docker, IBM, CNCF, AWS, HashiCorp, Snyk, Cypress, Notion, Coder, GitKraken, and Platform Engineering, each awarded by the vendor's own program.
 
-I design cloud and container platforms on Kubernetes, Terraform and AWS, secure their software supply chain and the AI agents that run on them, and explain the trade-offs to engineers, customers and leadership. The repositories below are reference architectures, and each says so. Earlier: operations and support roles at IBM, IPONWEB, Amazon and Thales (2016–2019).
+I design cloud and container platforms on Kubernetes, Terraform and AWS, secure their software supply chain and the AI agents that run on them, and explain the trade-offs to engineers, customers and leadership. The repositories below are reference architectures, and each says so.
 
+
+---
+
+### Community Titles
+
+[Docker Captain](https://www.docker.com/contributors/vladimir-mikhalev/) · [CNCF Ambassador (2026–2028)](https://www.cncf.io/people/ambassadors/?p=vladimir-mikhalev) · [IBM Champion](https://www.credly.com/badges/c0b85821-c9f1-4446-a9af-6d43f67b893f) · [AWS Community Builder](https://builder.aws.com/community/@heyvaldemar) · [HashiCorp Ambassador (2024–2025)](https://www.hashicorp.com/en/ambassador/directory?q=mikhalev) · [Platform Engineering Ambassador](https://platformengineering.org/ambassador-program) · [Snyk Ambassador (2023–2026)](https://heyvaldemar.com/provenance/#gerald-crescione) · [Cypress Ambassador](https://www.cypress.io/ambassadors#ambassadors-profiles) · [GitKraken Ambassador](https://www.gitkraken.com/meet-the-gitkraken-ambassadors) · [Notion Ambassador](https://www.notion.so/notion/Notion-Ambassador-Program-45448f9b8e704c7bab254bd505c4717c) · [Coder Champion](https://coder.com/coder-champions)
+
+---
+
+### Selected Work
+
+*Reference architectures, each tested in CI against the failure it exists to stop*
+
+- **[kubernetes-air-gapped-ai-agent](https://github.com/heyvaldemar/kubernetes-air-gapped-ai-agent)**: an AI agent in a Kubernetes cluster with no route to the internet, where open models meet planted instructions every day. With the tool's rules hidden from them, six models tried to send data out 92 times, and the boundary refused all 92. Scheduled runs on AWS, Google Cloud and Azure.
+- **[agent-security-benchmark](https://github.com/heyvaldemar/agent-security-benchmark)**: one set of planted instructions, put to three agent boundaries through their signed releases. Nothing got out at any of them, while open models acted on up to 15 of 18 instructions at one boundary and on none at another.
+- **[kubernetes-oscal-evidence](https://github.com/heyvaldemar/kubernetes-oscal-evidence)**: the flagship's admission policies turned into signed OSCAL assessment results an auditor can check: seven controls from NIST SP 800-53, the SSDF and the AI RMF, each resting on a test.
+- **[aws-eks-reference-platform](https://github.com/heyvaldemar/aws-eks-reference-platform)**: a multi-tenant Amazon EKS platform delivered as Argo CD ApplicationSets, with 56 checks on a fresh cluster every day and a weekly run on a real AWS account. Found: an add-on build that leaves Argo CD unable to read the cluster, which no mocked plan showed.
+- **[kubernetes-supply-chain-admission](https://github.com/heyvaldemar/kubernetes-supply-chain-admission)**: the cluster runs an image only if one build signed it and attached provenance, an SBOM and a scan from the last day. Found: the most common scanner gate passes an image the scanner could not read.
+
+Open-source product: **[oxy-llm-gateway](https://github.com/heyvaldemar/oxy-llm-gateway)**, a self-hosted LLM gateway co-authored with [DevOpsPink](https://github.com/DevOpsPink): per-project budgets, data loss prevention, a kill switch and an audit row for every request.
+
+**[Everything else, with what each one found](https://heyvaldemar.com/work/)** · reported upstream to [gVisor](https://github.com/gvisor/gvisor/issues/15756), [Kyverno](https://github.com/kyverno/kyverno/issues/18023) (fixed in [1.20.0](https://github.com/kyverno/kyverno/releases/tag/v1.20.0)), [Trivy](https://github.com/aquasecurity/trivy/discussions/11403), [kube-network-policies](https://github.com/kubernetes-sigs/kube-network-policies/issues/452), [Docker Sandboxes](https://github.com/docker/sbx-releases/issues/818) (fixed) and [Docker Hardened Images](https://github.com/docker-hardened-images/catalog/pull/685)
+
+---
+
+### Production Background
+
+*Where the decisions come from*
+
+I build the platforms, run the company-wide systems on top of them, and am the sole IT and DevOps engineer for North America. I run the infrastructure my frameworks are tested against: container orchestration, zero-trust governance, AI-augmented platform engineering and multi-region cloud architecture on AWS. I also build internal applications with AI coding agents to replace paid SaaS subscriptions.
+
+Since 2019 I have helped enterprise customers deploy a data-management platform on Kubernetes in AWS, Azure, Google Cloud and on premises, including self-managed and air-gapped installs; today I am the Kubernetes and cloud expert for North America, advise customers' engineers on Terraform, CI/CD and GitOps, and answer customer security questionnaires. I built and run the Professional Services GitLab.
+
+Earlier: operations and support roles at IBM, IPONWEB, Amazon and Thales (2016–2019).
+
+What I recommend here, I have run myself, and the evidence is linked.
 
 ---
 
@@ -41,25 +77,9 @@ I design cloud and container platforms on Kubernetes, Terraform and AWS, secure 
 
 > *"Vladimir has exceptional ability to get from vague problem description to a design that fits the real world situation. He plainly explains trade-offs so they are understandable to both engineering and non-engineering audience."*
 >
-> **Marek Ovcacek**, former Field CTO, Ataccama ([recommendation on LinkedIn](https://www.linkedin.com/in/heyvaldemar/details/recommendations/))
+> **Marek Ovcacek**, former Field CTO at a data-management software company ([recommendation on LinkedIn](https://www.linkedin.com/in/heyvaldemar/details/recommendations/))
 
 **Snyk Ambassador Award finalist (2023)** · [Every recommendation and named reference, with linked proof](https://heyvaldemar.com/provenance/)
-
----
-
-### Selected Work
-
-*Reference architectures, each tested in CI against the failure it exists to stop*
-
-- **[kubernetes-air-gapped-ai-agent](https://github.com/heyvaldemar/kubernetes-air-gapped-ai-agent)**: an AI agent in a Kubernetes cluster with no route to the internet, where open models meet planted instructions every day. With the tool's rules hidden from them, six models tried to send data out 92 times, and the boundary refused all 92. Scheduled runs on AWS, Google Cloud and Azure.
-- **[agent-security-benchmark](https://github.com/heyvaldemar/agent-security-benchmark)**: one set of planted instructions, put to three agent boundaries through their signed releases. Nothing got out at any of them, while open models acted on up to 15 of 18 instructions at one boundary and on none at another.
-- **[kubernetes-oscal-evidence](https://github.com/heyvaldemar/kubernetes-oscal-evidence)**: the flagship's admission policies turned into signed OSCAL assessment results an auditor can check: seven controls from NIST SP 800-53, the SSDF and the AI RMF, each resting on a test.
-- **[aws-eks-reference-platform](https://github.com/heyvaldemar/aws-eks-reference-platform)**: a multi-tenant Amazon EKS platform delivered as Argo CD ApplicationSets, with 56 checks on a fresh cluster every day and a weekly run on a real AWS account. Found: an add-on build that leaves Argo CD unable to read the cluster, which no mocked plan showed.
-- **[kubernetes-supply-chain-admission](https://github.com/heyvaldemar/kubernetes-supply-chain-admission)**: the cluster runs an image only if one build signed it and attached provenance, an SBOM and a scan from the last day. Found: the most common scanner gate passes an image the scanner could not read.
-
-Open-source product: **[oxy-llm-gateway](https://github.com/heyvaldemar/oxy-llm-gateway)**, a self-hosted LLM gateway co-authored with [DevOpsPink](https://github.com/DevOpsPink): per-project budgets, data loss prevention, a kill switch and an audit row for every request.
-
-**[Everything else, with what each one found](https://heyvaldemar.com/work/)** · reported upstream to [gVisor](https://github.com/gvisor/gvisor/issues/15756), [Kyverno](https://github.com/kyverno/kyverno/issues/18023) (fixed in [1.20.0](https://github.com/kyverno/kyverno/releases/tag/v1.20.0)), [Trivy](https://github.com/aquasecurity/trivy/discussions/11403), [kube-network-policies](https://github.com/kubernetes-sigs/kube-network-policies/issues/452), [Docker Sandboxes](https://github.com/docker/sbx-releases/issues/818) (fixed) and [Docker Hardened Images](https://github.com/docker-hardened-images/catalog/pull/685)
 
 ---
 
@@ -67,7 +87,6 @@ Open-source product: **[oxy-llm-gateway](https://github.com/heyvaldemar/oxy-llm-
 
 *Selected publications on vendor platforms*
 
-- **Docker Enterprise Case Study:** [Accelerating AI Infrastructure at Ataccama](https://www.docker.com/customer-stories/ataccama)
 - **Docker Enterprise Case Study:** [25% Cost Savings via Container-First Strategy](https://www.docker.com/customer-stories/beauty-giant)
 - **Docker Official Blog:** eight articles, the latest [The Untrusted Autonomous Workload: How AI Coding Agents Reshape What Isolation Has to Do](https://www.docker.com/blog/untrusted-autonomous-workload-ai-sandboxes/) ([all of them](https://www.docker.com/contributors/vladimir-mikhalev/))
 - **Book:** Technical Editor of [Docker and Kubernetes Security](https://dev.to/docker/i-just-published-my-book-docker-and-kubernetes-security-17lo) (2025), a [DevOps Dozen 2025 finalist](https://devops.com/devops-dozen-2025-finalists-announced/) for Best DevOps Book of the Year; Amazon credits me as [Editor](https://www.amazon.com/dp/B0FJY9DJR4)
@@ -101,20 +120,6 @@ Every template follows one hardening standard, the **[Self-Host Repo Hardening R
 Green is a claim. A restore is evidence.
 
 **[The evidence, with a restore measured on a clean machine](https://heyvaldemar.com/evidence/)** · **[Every finding, with the rule it produced](https://heyvaldemar.com/ledger/)** · **[The decisions, and what each one cost](https://heyvaldemar.com/decisions/)**
-
----
-
-### Production Background
-
-*Where the decisions come from*
-
-I build the platforms, run the company-wide systems on top of them, and am the sole IT and DevOps engineer for North America. I am the Kubernetes and cloud expert on customer calls, answer customer security questionnaires, and run a production platform on Amazon EKS with Terraform and GitHub Actions. I drove the container platform decision (Docker over Podman) for moving legacy applications to containers, and I am the customer-side voice of [Docker's enterprise customer story](https://www.docker.com/customer-stories/ataccama) on that move: 75% faster deployments and 40% fewer servers.
-
----
-
-### Community Titles
-
-[Docker Captain](https://www.docker.com/contributors/vladimir-mikhalev/) · [CNCF Ambassador (2026–2028)](https://www.cncf.io/people/ambassadors/?p=vladimir-mikhalev) · [IBM Champion](https://www.credly.com/badges/c0b85821-c9f1-4446-a9af-6d43f67b893f) · [AWS Community Builder](https://builder.aws.com/community/@heyvaldemar) · [HashiCorp Ambassador (2024–2025)](https://www.hashicorp.com/en/ambassador/directory?q=mikhalev) · [Platform Engineering Ambassador](https://platformengineering.org/ambassador-program) · [Snyk Ambassador (2023–2026)](https://heyvaldemar.com/provenance/#gerald-crescione) · [Cypress Ambassador](https://www.cypress.io/ambassadors#ambassadors-profiles) · [GitKraken Ambassador](https://www.gitkraken.com/meet-the-gitkraken-ambassadors) · [Notion Ambassador](https://www.notion.so/notion/Notion-Ambassador-Program-45448f9b8e704c7bab254bd505c4717c) · [Coder Champion](https://coder.com/coder-champions)
 
 ---
 
