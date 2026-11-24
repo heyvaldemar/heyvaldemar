@@ -14,14 +14,12 @@ AI agents now hold the keys: code, data, cloud accounts. I build the boundary ar
 
 Models will get smarter. The question stays: what may a machine do, and who proves it can do nothing else.
 
-I test what ships and publish what I find, failures included: 100+ public repositories, every restore script run by CI, every finding on [the ledger](https://heyvaldemar.com/ledger/) with its rule. [One of fewer than 250 Docker Captains worldwide](https://www.docker.com/community/captains/). 11 vendor community titles across Docker, IBM, CNCF, AWS, HashiCorp, Snyk, Cypress, Notion, Coder, GitKraken, and Platform Engineering, each awarded by the vendor's own program.
-
-I design cloud and container platforms on Kubernetes, Terraform and AWS, secure their software supply chain and the AI agents that run on them, and explain the trade-offs to engineers, customers and leadership. The repositories below are reference architectures, and each says so.
-
 
 ---
 
 ### Community Titles
+
+11 vendor community titles, each awarded by the vendor's own program. [One of fewer than 250 Docker Captains worldwide](https://www.docker.com/community/captains/).
 
 [Docker Captain](https://www.docker.com/contributors/vladimir-mikhalev/) · [CNCF Ambassador (2026–2028)](https://www.cncf.io/people/ambassadors/?p=vladimir-mikhalev) · [IBM Champion](https://www.credly.com/badges/c0b85821-c9f1-4446-a9af-6d43f67b893f) · [AWS Community Builder](https://builder.aws.com/community/@heyvaldemar) · [HashiCorp Ambassador (2024–2025)](https://www.hashicorp.com/en/ambassador/directory?q=mikhalev) · [Platform Engineering Ambassador](https://platformengineering.org/ambassador-program) · [Snyk Ambassador (2023–2026)](https://heyvaldemar.com/provenance/#gerald-crescione) · [Cypress Ambassador](https://www.cypress.io/ambassadors#ambassadors-profiles) · [GitKraken Ambassador](https://www.gitkraken.com/meet-the-gitkraken-ambassadors) · [Notion Ambassador](https://www.notion.so/notion/Notion-Ambassador-Program-45448f9b8e704c7bab254bd505c4717c) · [Coder Champion](https://coder.com/coder-champions)
 
