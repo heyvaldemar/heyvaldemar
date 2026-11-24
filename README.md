@@ -10,6 +10,10 @@
 
 ### What I Do
 
+Companies are handing AI agents the keys: code, data, cloud accounts. Few teams can show, with proof, what an agent can reach when someone feeds it the wrong instruction. I build these systems, attack them myself and publish what held and what broke. One example: an agent in a cluster with no route to the internet meets planted instructions every day; with the tool's rules hidden from them, six models tried to send data out 92 times, and the boundary refused all 92. Its checks run on a schedule on AWS, Google Cloud and Azure, and every number links to its run.
+
+Models will keep getting smarter. The question will not change: what may a machine do, and who proves it can do nothing else.
+
 I test what ships and publish what I find, failures included: 100+ public repositories, every restore script run by CI, every finding on [the ledger](https://heyvaldemar.com/ledger/) with its rule. [One of fewer than 250 Docker Captains worldwide](https://www.docker.com/community/captains/). 11 vendor community titles across Docker, IBM, CNCF, AWS, HashiCorp, Snyk, Cypress, Notion, Coder, GitKraken, and Platform Engineering, earned through contribution rather than credentials.
 
 I design cloud and container platforms on Kubernetes, Terraform and AWS, secure their software supply chain and the AI agents that run on them, and explain the trade-offs to engineers, customers and leadership. The repositories below are reference architectures, and each says so. Earlier: operations and support roles at IBM, IPONWEB, Amazon and Thales (2016–2019).
